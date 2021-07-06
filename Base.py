@@ -1,4 +1,4 @@
-mport cv2
+import cv2
 thres = 0.45 # Threshold to detect object
 
 cap = cv2.VideoCapture(1)
